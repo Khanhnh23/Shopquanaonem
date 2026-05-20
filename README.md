@@ -1,10 +1,10 @@
-# 🛍️ Shopquanaonem
+#  Shopquanaonem
 
 Website bán quần áo nữ sử dụng React + ASP.NET Core Web API
 
 ---
 
-## 🚀 Công nghệ sử dụng
+##  Công nghệ sử dụng
 
 - ReactJS
 - ASP.NET Core Web API
@@ -12,11 +12,11 @@ Website bán quần áo nữ sử dụng React + ASP.NET Core Web API
 
 ---
 
-## ✨ Tính năng
+##  Tính năng
 
 - Xem sản phẩm
 - Thêm giỏ hàng
-- Đăng nhập / đăng ký (nếu có)
+- Đăng nhập / đăng ký 
 - Quản lý sản phẩm (Admin)
 
 ---
@@ -29,3 +29,7 @@ Website bán quần áo nữ sử dụng React + ASP.NET Core Web API
 npm install
 npm start
 ```
+### Backend
+cd shop-be
+dotnet restore
+dotnet run
