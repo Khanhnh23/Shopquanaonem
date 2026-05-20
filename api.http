@@ -1,0 +1,9 @@
+POST http://localhost:5265/api/Products
+Content-Type: application/json
+
+{
+  "name": "Đầm body cao cấp",
+  "price": 250,
+  "image": "https://picsum.photos/300",
+  "category": "Đầm"
+}
